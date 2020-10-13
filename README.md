@@ -6,6 +6,9 @@ Q1. What time of the year has the highest rental prices?
 Q2. What is the relation between price and property type?
 Q3. Which type of room has the majority of listings in Boston airbnb?
 
+# Project Motivation
+To explore Airbnb data in Boston and write a blog post helping potential Airbnb hosts to understand the factors affecting how much money they could potentially make.
+
 # Dataset Used:
 Boston AirBnb data 
 
